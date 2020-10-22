@@ -1,0 +1,19 @@
+
+html {
+    /*Positioning*/
+    position: relative;
+    /*Box-model*/
+    min-height: 100%;
+}
+
+
+
+
+
+.navbar-brand {
+
+/*Positioning*/
+margin-left: 0;
+
+
+}
