@@ -8,12 +8,16 @@ html {
 
 
 
-
+/* Start of NavBar Formatting */
 
 .navbar-brand {
+    display: block;
+    color: green;
 
-/*Positioning*/
-margin-left: 0;
-
-
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none
 }
+.navbar-brand>a {color: blue;}
+
+#Aneida {color: tomato;}
