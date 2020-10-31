@@ -11,6 +11,8 @@ html {
 /* Start of NavBar Formatting */
 
 .navbar-brand {
+    /*Positioning*/
+    position: relative;
     display: block;
     color: green;
 
@@ -20,4 +22,7 @@ html {
 }
 .navbar-brand>a {color: blue;}
 
-#Aneida {color: tomato;}
+#Aneida {color: turquoise;}
+
+
+#supsystic-table-data.html { font-size: 5px; } 
